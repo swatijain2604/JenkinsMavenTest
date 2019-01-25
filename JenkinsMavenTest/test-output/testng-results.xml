@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19909" started-at="2019-01-23T19:23:52Z" finished-at="2019-01-23T19:24:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19909" started-at="2019-01-23T19:23:52Z" finished-at="2019-01-23T19:24:12Z">
+      <class name="MavenJenkins.Login">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MavenJenkins.Login@6eebc39e]" name="beforeTest" is-config="true" duration-ms="14211" started-at="2019-01-24T00:53:52Z" finished-at="2019-01-24T00:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:MavenJenkins.Login@6eebc39e]" name="f" duration-ms="5670" started-at="2019-01-24T00:54:06Z" finished-at="2019-01-24T00:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MavenJenkins.Login@6eebc39e]" name="afterTest" is-config="true" duration-ms="12" started-at="2019-01-24T00:54:12Z" finished-at="2019-01-24T00:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- MavenJenkins.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
